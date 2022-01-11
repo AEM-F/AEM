@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">My top projects! 🖥️</h2>
 <br>
-<p align="center">
+<p align="center" width="100%">
   <img width="400" height="240" src="https://github.com/AEM-F/AEM/blob/main/rep-bdv-temp.png" />
   <img width="400" height="240" src="https://github.com/AEM-F/AEM/blob/main/rep-asw-temp.jpg" />
   <a href="https://github.com/AEM-F/bludevil-digital-marketplace">
@@ -12,6 +12,13 @@
   <a href="https://github.com/AEM-F/animal-shelter-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AEM-F&repo=animal-shelter-website&theme=tokyonight" />
   </a>
+</p>
+<p align="center" width="100%">
+    <img width="400" height="240" src="https://github.com/AEM-F/AEM/blob/main/rep-env-sys-temp.png" />
+    <br>
+    <a href="web-app-iot-sensor-data-visualization">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AEM-F&repo=web-app-iot-sensor-data-visualization&theme=tokyonight" />
+    </a>
 </p>
 <br>
 <h2 align="center">About me! 😃</h2>
