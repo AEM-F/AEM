@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I am Emilian 👋</h1>
+<h1 align="center">Hello there, I am Emilian  👋</h1>
 <p align="center">Now that you are here why don't you stay and have a look! 🤷‍♂️</p>
 <br>
 <h2 align="center">My top projects! 🖥️</h2>
