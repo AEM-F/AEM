@@ -14,10 +14,13 @@
   </a>
 </p>
 <p align="center" width="100%">
-    <img width="400" height="240" src="https://github.com/AEM-F/AEM/blob/main/rep-env-sys-temp.png" />
-    <br>
-    <a href="web-app-iot-sensor-data-visualization">
+  <img width="400" height="240" src="https://github.com/AEM-F/AEM/blob/main/rep-env-sys-temp.png" />
+   <img width="400" height="240" src="https://github.com/AEM-F/AEM/blob/main/tn-anime.jpg" />
+  <a href="https://github.com/AEM-F/web-app-iot-sensor-data-visualization">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AEM-F&repo=web-app-iot-sensor-data-visualization&theme=tokyonight" />
+    </a>
+  <a href="https://github.com/AEM-F/hanime">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AEM-F&repo=hanime&theme=tokyonight" />
     </a>
 </p>
 <br>
